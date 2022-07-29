@@ -1,0 +1,30 @@
+.article {
+  width: 50%;
+  height: 50px;
+  margin: auto;
+  text-align: center;
+  background-color: blue;
+}
+
+.input {
+  height: 2em;
+  width: 98%;
+  text-align: center;
+  font-size: 1em;
+  border: 2px solid red;
+  border-radius: 3px;
+}
+
+.btn {
+  background-color: red;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  font-size: 5em;
+  background-color: grey;
+  border: 2px solid green;
+}
